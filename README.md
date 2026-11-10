@@ -82,11 +82,11 @@ This project provided practical experience in building an end-to-end Data Engine
 ![Pipeline Success](screenshots/pipeline_success.png)
 
 ### Dashboard – Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
+![Dashboard Overview](screenshots/dashboard_overview1.png)
+![Dashboard Overview](screenshots/dashboard_overview2.png)
 ### Dashboard – Branch & Payer
-![Branch and Payer](screenshots/dashboard_branch_payer.png)
-
+![Branch and Payer](screenshots/dashboard_branch_payer1.png)
+![Branch and Payer](screenshots/dashboard_branch_payer2.png)
 ### Dashboard – Data Quality
 ![Data Quality Dashboard](screenshots/dashboard_data_quality.png)
 
