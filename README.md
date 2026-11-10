@@ -73,3 +73,22 @@ Developed a Databricks AI/BI dashboard with three pages:
 This project provided practical experience in building an end-to-end Data Engineering workflow using Databricks. It helped strengthen my understanding of data ingestion, transformation, data quality, pipeline development, and analytical reporting.
 
 *Dataset: Synthetic hospital billing data created for learning and project purposes. No real patient information is used.*
+## Project Screenshots
+
+### Pipeline Architecture
+![Pipeline Graph](screenshots/pipeline_graph.png)
+
+### Successful Pipeline Execution
+![Pipeline Success](screenshots/pipeline_success.png)
+
+### Dashboard – Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Dashboard – Branch & Payer
+![Branch and Payer](screenshots/dashboard_branch_payer.png)
+
+### Dashboard – Data Quality
+![Data Quality Dashboard](screenshots/dashboard_data_quality.png)
+
+### Data Quality Verification
+![Data Quality Results](screenshots/data_quality_results.png)
